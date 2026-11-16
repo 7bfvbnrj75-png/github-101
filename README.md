@@ -41,3 +41,14 @@ cat README.md
 ## License
 
 [MIT](LICENSE) © 2026
+
+## 如何参与
+
+1. Fork 本仓库到你自己的账号
+2. `git clone` 你的副本到本地
+3. 从 `main` 开一个分支：`git checkout -b feat/your-topic`
+4. 改完提交：`git commit -m "feat: 说明改了什么"`
+5. `git push` 后在本仓库发起 Pull Request
+6. 通过审查后由维护者合并
+
+> 提交信息建议用 `feat:`（新功能）/ `fix:`（修 bug）/ `docs:`（文档）前缀。
